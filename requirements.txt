@@ -1,2 +1,3 @@
 # cspell:ignore streamlit
 streamlit
+gspread
